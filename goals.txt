@@ -1,2 +1,3 @@
 # my first goal is to learn fullstack
 # my second goal is to learn devops
+# my third goal is to understand merging

@@ -1,1 +1,2 @@
 # my first goal is to learn fullstack
+# my second goal is to learn devops
